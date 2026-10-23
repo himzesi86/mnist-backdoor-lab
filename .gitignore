@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+models/
+outputs/
+logs/
+log/
+*.pth
+*.log
+.streamlit/
